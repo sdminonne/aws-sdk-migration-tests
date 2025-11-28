@@ -1,2 +1,6 @@
 .claude
 *~
+
+# Compiled binaries
+cross_version_infrastructure
+mixed_sdk
